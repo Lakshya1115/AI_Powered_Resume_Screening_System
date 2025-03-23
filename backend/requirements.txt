@@ -1,1 +1,10 @@
- 
+Flask
+Flask-CORS
+Flask-RESTful
+pymongo
+psycopg2-binary
+python-dotenv
+transformers
+torch
+pdfplumber
+
